@@ -1,0 +1,4 @@
+[26-Oct-2022 15:28:43 America/New_York] PHP Notice:  Undefined variable: count in /home/codexhpu/shopifyapp.coderouting.com/custom-b2b-app/Forms/pages/productslists.php on line 39
+[26-Oct-2022 15:28:43 America/New_York] PHP Warning:  include(../footer.php): failed to open stream: No such file or directory in /home/codexhpu/shopifyapp.coderouting.com/custom-b2b-app/Forms/pages/productslists.php on line 60
+[26-Oct-2022 15:28:43 America/New_York] PHP Warning:  include(../footer.php): failed to open stream: No such file or directory in /home/codexhpu/shopifyapp.coderouting.com/custom-b2b-app/Forms/pages/productslists.php on line 60
+[26-Oct-2022 15:28:43 America/New_York] PHP Warning:  include(): Failed opening '../footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/codexhpu/shopifyapp.coderouting.com/custom-b2b-app/Forms/pages/productslists.php on line 60
